@@ -1,4 +1,4 @@
-def  create_message(message):
+def  message(message):
     reply_message = [
         {
             'type':'text',
